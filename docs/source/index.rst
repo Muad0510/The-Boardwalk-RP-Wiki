@@ -5,9 +5,9 @@ Home
 .. note::
   This is a community project and as such, is constantly evolving. We do our best to keep all information up to date, but we are only human.
   
-  Spot an error? Couldn't find something? Want to expand on an existing page?&#x20;
+  Spot an error? Couldn't find something? Want to expand on an existing page?
   
-  'Become and editor <https://app.gitbook.com/invite/wDw4bNwiQcZlAQueDBzP/jYT3GLi7Uk9FV7pyVUBw>'_ and help out! Submit your changes or additions and we'll review it when time allows.
+  `Become and editor <https://app.gitbook.com/invite/wDw4bNwiQcZlAQueDBzP/jYT3GLi7Uk9FV7pyVUBw>`_ and help out! Submit your changes or additions and we'll review it when time allows.
 
 
 Boardwalk RP is a unique roleplaying server that transports you to the 1980's.
