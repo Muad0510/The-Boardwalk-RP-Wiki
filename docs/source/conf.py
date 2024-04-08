@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'The Boardwalk RP Wiki'
+copyright = '2024, muad_'
+author = 'muad_'
 
 release = '0.1'
 version = '0.1.0'
