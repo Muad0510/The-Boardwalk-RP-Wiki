@@ -26,3 +26,5 @@ Directory
 
    getting_started
    character_create
+   how_to_edit
+
