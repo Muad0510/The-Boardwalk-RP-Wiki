@@ -5,7 +5,6 @@ How to edit
 
 #. :ref:`my-github-edit`
 #. :ref:`my-vscode-edit`
-#. :ref:`my-rdd-edit`
 
 .. _my-github-edit:
 Editing through GitHub
@@ -19,10 +18,9 @@ https://github.com/Muad0510/The-Boardwalk-RP-Wiki/tree/582114293736b6b988e96aae4
 Editing with VSCode
 -------------------
 
+.. toctree::
 
-
-.. _my-rdd-edit:
-Editing with ReadTheDocs
--------------------
-
-
+   index
+   getting_started
+   character_create
+   how_to_edit
